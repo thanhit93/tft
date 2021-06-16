@@ -1,0 +1,5 @@
+Demo NFT App is a Flutter template.
+Demo NFT App is completely free, with no ads.
+
+Privacy Policy: https://nhancv.github.io/apppolicy/tft/PrivacyPolicy.html
+Terms of Service: https://nhancv.github.io/apppolicy/tft/TermsofService.html
